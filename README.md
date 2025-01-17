@@ -4,7 +4,9 @@
 ## Description
 
 This modpack is built specially for me and anyone else who wants to use it. 
+
 ---
+
 ## Detailed Context
 
 This modpack is tailored for me. Simple as.
