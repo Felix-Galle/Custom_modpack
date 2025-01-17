@@ -1,9 +1,9 @@
 # My Custom Modpack 
 ### Version: 1.0.2
 ---
-##Description: This modpack is builkt specially for me and anyone else who wants to use it. 
+## Description: This modpack is builkt specially for me and anyone else who wants to use it. 
 ---
-### Detailed Context
+##Detailed Context
 
 This modpack is tailored for me. Simple as.
 It is structured in this way:
