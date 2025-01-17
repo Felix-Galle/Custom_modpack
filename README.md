@@ -1,7 +1,7 @@
 # My Custom Modpack 
 ### Version: 1.0.2
 ---
-## Description: 
+## Description
 
 This modpack is built specially for me and anyone else who wants to use it. 
 ---
